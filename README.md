@@ -1,8 +1,7 @@
-# IMS
-## Inventory Management System
+# Inventory Management System
 
 
-# Here's the short description of the project...
+## Here's the short description of the project...
 
 
 
