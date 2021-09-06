@@ -1,5 +1,10 @@
 # IMS
-Inventory Management System
+## Inventory Management System
+
+
+# Here's the short description of the project...
+
+
 
 
 I have created a dictionary named "ims_record" under which provided 30 items, 5 values each and added keys to them.
