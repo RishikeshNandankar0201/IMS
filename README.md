@@ -1,2 +1,2 @@
 # IMS
-Invebtory Management System (small project)
+Inventory Management System
